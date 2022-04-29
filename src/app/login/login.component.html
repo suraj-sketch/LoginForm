@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h2><u>Suraj Pharma Login</u></h2>
+                    <h4>&#9829; Contact With Govind Ji(9905259672) &#9829;</h4>
+                </div>
+                <hr>
+                <form [formGroup]="loginForm" (ngSubmit)="login()">
+                    <div class="mb-3">
+                        <label class="form-label">Email address</label><br>
+                        <input formControlName="email" placeholder="Enter Email" type="email" class="form-control"
+                            id="exampleInputEmail1" aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3" style="margin-top: 8px;">
+                        <label class="form-label">Password</label><br>
+                        <input formControlName="password" placeholder="Enter Password" type="password"
+                            class="form-control">
+                    </div>
+                    <button style="margin-top: 8px;" type="submit" class="btn btn-primary">Login</button>
+                </form><br>
+                <a routerLink="/signup"> New User ? Click to SignUp !</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,67 @@
+{
+  "signup": [
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "sk",
+      "mobile": "9905259672",
+      "email": "surajshah081@gmail.com",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "suraj",
+      "mobile": "9903610315",
+      "email": "surajshah081@gmail.com",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "govind",
+      "mobile": "9903610315",
+      "email": "surajshah081@gmail.com",
+      "password": "223320",
+      "id": 8
+    },
+    {
+      "name": "anil naik",
+      "mobile": "123456789",
+      "email": "naik@12@gmail.com",
+      "password": "12345",
+      "id": 9
+    }
+  ]
+}
